@@ -7,16 +7,16 @@ Uygulama, her ziyaret edildiğinde bir counter arttırır ve ziyaret sayısını
 
 ## 🚀 Proje Amacı
 
+- Flask ve Python web uygulamalarını öğrenmek
 - Bulut bilişim ve container teknolojilerini öğrenmek
 - Docker ile uygulama paketleme ve dağıtım pratiği yapmak
-- Bootcamp veya eğitim demo projeleri için hazır örnek oluşturmak
 
 ---
 
 ## 🛠 Gereksinimler
 
 - Python 3.9 veya üzeri
-- Docker Desktop
+- Docker Desktop (opsiyonel, container ile çalıştırmak için)
 - Git (isteğe bağlı, kodu GitHub’dan çekmek için)
 
 ---
@@ -31,7 +31,7 @@ Uygulama, her ziyaret edildiğinde bir counter arttırır ve ziyaret sayısını
 | `README.md`     | Proje hakkında bilgi ve kullanım talimatları |
 
 ---
-## 📦 Docker Flow Görselleştirmesi
+## 📦 Docker Flow Görselleştirmesi (opsiyonel)
 
 Uygulamanın Docker ile nasıl çalıştığını adım adım özetleyen şema:
 
